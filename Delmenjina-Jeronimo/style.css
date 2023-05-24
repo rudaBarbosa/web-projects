@@ -1,0 +1,17 @@
+
+* {
+	transition: all 0.2s ease-in-out;
+  }
+  
+  body {
+	background: #78e35b; 
+  	background: -webkit-linear-gradient(to right, #ded11c, #DCE35B); 
+  	background: linear-gradient(to right, #03767a, #f43cbd); 
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+  }
+
+  
